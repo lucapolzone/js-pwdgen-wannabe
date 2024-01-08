@@ -1,5 +1,5 @@
 # Esercizio: (Insicurissimo) password generator (08/01/2024)
-nome repo: `htmlcss-responsive-layout`
+nome repo: `js-pwdgen-wannabe`
 
 ## Traccia
 
